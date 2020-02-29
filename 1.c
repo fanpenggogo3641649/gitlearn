@@ -14,4 +14,5 @@ int main()
 	3jjjjjjjjjjjjjjjjjjjrrrrrrrrrrrrrrrrrr
 }
 charu
+add ma1
 
